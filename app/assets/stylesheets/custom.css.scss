@@ -4,6 +4,11 @@
     height: 400px;
 }
 
+#messages {
+    height: 15em;
+    overflow: auto;
+}
+
 .online_users_menu {
-    width: auto !important ;
+    width: auto !important;
 }
